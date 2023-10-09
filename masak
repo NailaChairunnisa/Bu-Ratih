@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masak-masak</title>
+</head>
+<body>
+    <h2 style="text-align: center;">Masak Bersama Istri Taehyung</h1>
+    <h4 style="font-size: 20px;"> Capjay </h4>
+    <p style="font-size: 18px;">
+    <img src="foto/capjay.jpg" width="225" alt="bintang"align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+    Bahan-bahan :
+    <ul style="list-style-type: '';">
+        <li> 1/2 kembang kol </li>
+        <li> 2 wortel </li>
+        <li> 10 potong bakso ikan </li>
+        <li> 1 buah telor </li>
+        <li> 200 ml air </li>
+        <li> 3 sdt saos tiram </li>
+        <li> 1 sdt merica bubuk</li>
+        <li> secukupnya gula dan garam</li>
+        <li> 1/4 kg caisim </li>
+    </ul>
+    Bumbu Iris : 
+    <ul style="list-style-type: ;">
+        <li> 3 siung bawang merah </li>
+        <li> 3 siung bawang putih </li>
+        <li> bawang bombay </li>
+    </ul>
+    </p>
+    <hr>
+    <h2>Langkah pembuatan : </h2>
+    <p style="font-size:18px">
+        <ol type="1">
+            <li>
+                Siapkan bahan bahan.
+                <br>
+                <img src="foto/bahan.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Cuci dan potong2 sayuran, baso, cabai, bawang bombai sesuai selera.
+                <br>
+            </li>
+            <li>
+                Haluskan bawang merah dan bawang putih.
+                <br>
+            </li>
+            <li>
+                Tumis bumbu halus sampai wangi.
+                <br>
+                <img src="foto/5.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Jika sudah wangi, tambahkan bawang bombay dan cabai sisir.
+                <br>
+                <img src="foto/4.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Kemudian tambahkan bakso dan telur orak arik.
+                <br>
+                <img src="foto/6.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Tambahkan air didihkan, kemudian masukkan kembang kol dan wortel (sayuran yg agak keras).
+                <br>
+                <img src="foto/7.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Tambahkan gula, garam, saos tiram, merica, dan cek rasa.
+                <br>
+            </li>
+            <li>
+                Tambahkan caisim, aduk rata diamkan sampai semua sayur layu dan air meresap.
+                <br>
+                <img src="foto/9.webp" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Capjay simple siap disajikan.
+                <br>
+                <img src="foto/10.webp" width="150" style="border-radius: 10px;">
+            </li>
+        </ol>
+    </p>
+</body>
+</html>
